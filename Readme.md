@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-In this course, we will be developing an iOS app but first building our own small API to interface with! Through the course, we will focus on a small core subset of features that will help you be come a successful iOS developer. 
+In this course, we will be developing an iOS app but first building our own small API to interface with! Through the course, we will focus on a small core subset of features that will help you be come a successful iOS developer.
 
 Knowing the complete cycle of developing backend systems to client interfaces is crucial to building any internet product or service.
 
@@ -17,29 +17,45 @@ For the backend, we will build a small Phoenix app with a postgres database. Don
 3. Interface with the API with an iOS client  to login, signup and fetch data.
 4. Learn the basics of functional programming and techniques like recursion.
 
+## Group Project
+
+Work together is groups of 2 to build an API.
+Projects must include:
+
+1. At least two(3) RESTful resources/routes.
+2. A postgres/sql/mongo database
+3. A simple iOS app utilizing the API and displaying results on screen.
+
 ## Course Schedule
 
 - #### Week 1
     - [Intro to Phoenix & Elixir](00-Intro-to-Phoenix-Elixir)
+    - [Elixir basics](01-Elixir-Basics)
     - [Anatomy of a Phoenix App](02-Phoenix-Structure)
     - [Understanding Request Response Cycle](03-Request-Response-Cycle)
-    
+
 - #### Week 2
     - [Dependency Management - The Hex Package Manager](04-Hex-Package-Manager)
     - [Routing](05-Routing)
     - [Databases & Models](06-Databases-&-Models)
-    
+
+
 - #### Week 3
-    - [Controllers](07-Controllers)
-    - [Views - JSON, HTML](08-Views-JSON)
+    - [Schema & Changesets](07-Schema-&-Changesets)
+    - [Database Queries](08-Database-Queries)
+    - [Controllers](09-Controllers)
 
 - #### Week 4
-    - [iOS Project Setup](09-iOS-Setup) 
-    - [Networking - Constructing Requests](10-Constructing-Requests)
-    - [Networking - Handling Responses](11-Handling-Responses)
+    - [Views - JSON, HTML](10-Views-JSON)
+    - [iOS Project Setup](11-iOS-Setup)
 
 - #### Week 5
-    - [Displaying Network Results](12-Displaying-results)
+    - [Networking - Constructing Requests](12-Constructing-Requests)
+    - [Networking - Handling Responses](13-Handling-Responses)
+    - [Displaying Network Results](14-Displaying-results)
+
+- #### Week 6
+    - [Project Work Time](13-Project-Work-Time)
 
 ## Evaluations
 
@@ -48,4 +64,3 @@ To pass the course, students will have:
     1. Completed all challenges.
     2. Completed the spec project associated.
     3. Demonstrate clear understanding of how to request / response works from server to client.
-    
