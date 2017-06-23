@@ -4,9 +4,11 @@
 
 In this course, we will be developing an iOS app but first building our own small API to interface with! Through the course, we will focus on a small core subset of features that will help you be come a successful iOS developer.
 
-Knowing the complete cycle of developing backend systems to client interfaces is crucial to building any internet product or service.
+Knowing the complete cycle of developing backend systems and client interfaces is crucial to building any internet product or service.
 
-It also helps you understand how these systems are built from the ground up and how to get your own API up and running!
+It also helps you understand how these systems are built from the ground up and how to get your own software service up and running!
+
+We will split the classes up between the backend(Phoenix/Elixir) and the frontend(iOS).
 
 For the backend, we will build a small Phoenix app with a postgres database. Don't worry if you aren't familiar with any of those. This course will introduce you to the fundamentals of the language (Elixir) and the framework (Phoenix).
 
@@ -14,17 +16,17 @@ For the backend, we will build a small Phoenix app with a postgres database. Don
 
 1. Learn how the request response cycle works
 2. Build a two resource API
-3. Interface with the API with an iOS client  to login, signup and fetch data.
-4. Learn the basics of functional programming and techniques like recursion.
+3. Interface with the API with an iOS client to fetch and display data.
+4. Learn the basics of functional programming.
 
 ## Group Project
 
 Work together is groups of 2 to build an API.
 Projects must include:
 
-1. At least two(3) RESTful resources/routes.
+1. At least two(2) RESTful resources/routes.
 2. A postgres/sql/mongo database
-3. A simple iOS app utilizing the API and displaying results on screen.
+3. A simple iOS app utilizing the API and displaying results on an iOS app.
 
 ## Course Schedule
 

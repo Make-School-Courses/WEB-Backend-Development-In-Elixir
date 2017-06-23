@@ -14,7 +14,6 @@
 2. Play with primitive datastructures in Elixir like Structs
 
 
-
 ## Functions
 
 In functional programming languages, the basic unit of composition is the function.
